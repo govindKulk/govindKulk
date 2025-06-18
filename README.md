@@ -19,7 +19,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 - 🌱 Exploring **advanced TypeScript patterns** and **real-time technologies**
 - 👯 Open to collaborate on **innovative projects** and **open source contributions**
 - 💬 Ask me about **React**, **Next.js**, **TypeScript**, and **Socket.io**
-- 📫 How to reach me: [Mail](kulkarnigovind2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/govind-kulkarni-44aa71228/)
+- 📫 How to reach me: [Mail](mailto:kulkarnigovind2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/govind-kulkarni-44aa71228/)
 - ⚡ Fun fact: I enjoy building clones of popular applications to understand their architecture
 
 ---
