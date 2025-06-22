@@ -107,45 +107,10 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=govindKulk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindKulk&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govindKulk&theme=radical" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govindKulk&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=govindKulk&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```typescript
-const currentFocus = {
-  learning: ["Advanced TypeScript", "System Design", "DevOps"],
-  building: ["Collaborative Tools", "Real-time Applications"],
-  exploring: ["AI/ML Integration", "Web3 Technologies"],
-  contributing: ["Open Source Projects", "Developer Tools"]
-};
-```
-
-</div>
 
 ---
 
@@ -160,19 +125,9 @@ const currentFocus = {
 
 </div>
 
----
 
-## 💡 Fun Stats
 
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
-</div>
 
 ---
 
