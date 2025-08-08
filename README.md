@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Developer** with a keen interest in building scala
 **Tech Stack:**
 - React Native
 - Expo
-- JavaScript
+- Supabase
 
 **Key Features:**
 - Marketplace for farmers
