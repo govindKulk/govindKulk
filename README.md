@@ -2,25 +2,21 @@
 
 🚀 **Full Stack Developer** passionate about crafting innovative web experiences and building tools that make developers' lives easier.
 
+<!---
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-govindkulkarni.me-blue?style=for-the-badge)](https://govindkulkarni.me)
 [![Twitter](https://img.shields.io/badge/Twitter-@GovindK02338279-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GovindK02338279)
-[![GitHub followers](https://img.shields.io/github/followers/govindKulk?style=for-the-badge)](https://github.com/govindKulk)
 
 </div>
+--->
 
-## 🛠️ Tech Stack
+## 🎯 Currently Working On
+- **AWS Serverless Stack - Lambda, S3, DynamoDB, Cognito etc**
+- **AWS Development Tools CDK, SDK, SAM with Node/Typescript**
+- **[filedrop](https://github.com/govindKulk/filedrop)**
 
-```javascript
-const govind = {
-    languages: ["TypeScript", "JavaScript", "HTML", "CSS"],
-    frontend: ["Next.js", "React", "Tailwind CSS", "HTML5", "CSS3"],
-    backend: ["Node.js", "Prisma", "Express"],
-    tools: ["Git", "VS Code", "Vercel", "GitHub"],
-    currentFocus: ["Full-Stack Development", "UI/UX Design", "Form Builders"]
-};
-```
+---
 
 ## 🚀 Featured Projects
 
