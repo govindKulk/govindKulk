@@ -104,13 +104,6 @@
 #### 📋 [Multi-Step Form](https://github.com/govindKulk/react-multi-step-form)
 A sleek multi-step form implementation showcasing modern UI/UX principles and form handling techniques.
 
-#### 😄 [Funny Login System](https://github.com/govindKulk/funny-login-system)
-A creative and humorous take on user authentication - because login pages don't have to be boring!
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
 ### 🚧 Broken/Under-development projects
 
 #### 🌟 [KudoVerse](https://github.com/govindKulk/kudoverse-backend)
