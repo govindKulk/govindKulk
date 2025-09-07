@@ -48,6 +48,22 @@
 
 ---
 
+### 📦 FileDrop – Serverless File Sharing Platform  
+**[Repository](https://github.com/govindKulk/filedrop)**
+
+- ✨ **Completed Project** – A production-ready, ephemeral file sharing platform showcasing modern serverless architecture with **AWS**.  
+- 🔑 **User Management** – Registration, email verification, authentication, and JWT-based authorization  
+- ⬆️ **Secure File Upload** – Pre-signed URLs, type validation, size limits, and persistent S3 storage  
+- 📋 **File Management** – List, download, and delete files with audit trail (upload tracking, download counts)  
+- 🔐 **Access Control** – User isolation, least-privilege IAM, and CORS  
+- 📧 **Email Notifications** – Welcome emails and upload confirmations via SES  
+- 🛡️ **Security** – Serverless authentication (Cognito), S3 encryption, validation, monitoring with CloudWatch  
+- 🧩 **Infrastructure as Code** – Entire stack defined in AWS CDK (TypeScript), fully reproducible deployment  
+
+
+**Tech Stack:** TypeScript, AWS Lambda, API Gateway, DynamoDB, S3, Cognito, SES, AWS CDK, Node.js
+
+
 ### 🔗 URL Shortener - Spring Boot Service
 **[Repository](https://github.com/govindKulk/url-shortener-spring)**
 
