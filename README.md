@@ -11,17 +11,23 @@
 </div>
 --->
 
-## 🎯 Currently Working On
-1. **formGen** - Drag and Drop form builder
-  - **[LIVE](https://formgen-gold.vercel.app/)**
+## 🚀 Featured Projects
 
-2. **AWS Serverless Stack - Lambda, S3, DynamoDB, Cognito etc**
-  - **AWS Development Tools CDK, SDK, SAM with Node/Typescript**
-  - **[filedrop](https://github.com/govindKulk/filedrop)**
+### 🎯 FormGen - Smart Form Builder
+**[Live Demo](https://formgen-gold.vercel.app/)** | **[Repository](https://github.com/govindKulk/formgen)**
+
+🔥 **Currently Working On** - A powerful drag-and-drop form builder that lets you create complex multi-step forms in just clicks!
+
+- ✨ **Drag & Drop Interface** - Intuitive form building experience
+- 🔄 **Multi-Step Forms** - Create complex workflows, zustand state management
+- 🔗 **Public Sharing** - Share forms via public links
+- 📊 **Response Collection** - Built-in response management
+- ⛭ **Responsive Design** - Create forms on any device with just clicks
+
+**Tech Stack:** TypeScript, React, Next.js, TailwindCSS, ShadCN, dnd-kit, Prisma, Redis
+
 
 ---
-
-## 🚀 Featured Projects
 
 ### 🎨 BoardStorm - Collaborative Whiteboard
 **[Live Demo](https://boardstorm.vercel.app)** | **[Repository](https://github.com/govindKulk/boardstorm)**
@@ -78,43 +84,6 @@
 - 🔧 **RESTful APIs** - Clean and well-structured API endpoints
 
 **Tech Stack:** Java, Spring Boot, Spring Framework
-
----
-
-### 🎯 FormGen - Smart Form Builder
-**[Live Demo](https://formgen-gold.vercel.app/)** | **[Repository](https://github.com/govindKulk/formgen)**
-
-🔥 **Currently Working On** - A powerful drag-and-drop form builder that lets you create complex multi-step forms in just clicks!
-
-- ✨ **Drag & Drop Interface** - Intuitive form building experience
-- 🔄 **Multi-Step Forms** - Create complex workflows
-- 📋 **Code Generation** - Copy generated code for integration
-- 🔗 **Public Sharing** - Share forms via public links
-- 📊 **Response Collection** - Built-in response management
-
-**Tech Stack:** TypeScript, React, Next.js
-
----
-
-### 📝 Fun Projects
-
-**🌐 [Tic Tac Toe Sockets](https://github.com/govindKulk/sockets-tic-tac-toe)** - Real-time multiplayer Tic Tac Toe game with websockets.
-
-**Tech Stack:** TypeScript, Socket.io, Vite
-
----
-
-#### 📋 [Multi-Step Form](https://github.com/govindKulk/react-multi-step-form)
-A sleek multi-step form implementation showcasing modern UI/UX principles and form handling techniques.
-
-### 🚧 Broken/Under-development projects
-
-#### 🌟 [KudoVerse](https://github.com/govindKulk/kudoverse-backend)
-**Status:** Under Development 🔨
-
-A Node.js backend project for testing and experimenting with server-side technologies and API development.
-
-**Tech Stack:** Node.js, Express
 
 ---
 
