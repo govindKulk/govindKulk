@@ -68,7 +68,7 @@
 
 
 ### 🔗 URL Shortener - Spring Boot Service
-**[Repository](https://github.com/govindKulk/url-shortener-spring)**
+**[Repository](https://github.com/govindKulk/url-shortner-spring)**
 
 ⚡ **Completed Backend Project** - A robust URL shortening service built with Spring Boot, demonstrating backend development skills and RESTful API design.
 
