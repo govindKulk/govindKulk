@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects
 
 ### 🎯 FormGen - Smart Form Builder
-**[Live Demo](https://formgen-gold.vercel.app/)** | **[Repository](https://github.com/govindKulk/formgen)**
+**[Live Demo](https://formgene.vercel.app/)** | **[Repository](https://github.com/govindKulk/formgen)**
 
 🔥 **Currently Working On** - A powerful drag-and-drop form builder that lets you create complex multi-step forms in just clicks!
 
