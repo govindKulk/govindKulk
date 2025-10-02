@@ -1,6 +1,6 @@
 # Hi there, I'm Govind! 👋
 
-🚀 **Full Stack Developer** passionate about crafting innovative web experiences and building tools that make developers' lives easier.
+🚀 **Full Stack Developer** passionate about crafting innovative user experiences and building tools that make lives easier.
 
 <!---
 <div align="center">
