@@ -29,6 +29,28 @@
 
 ---
 
+### 🚀 [FastAPI Advanced CRUD](https://github.com/govindKulk/fastapi-advanced-crud)
+
+**Production-ready REST API with advanced optimization patterns**
+
+**Features:**
+- 🔐 JWT authentication & authorization
+- ⚡ Redis caching with custom decorators
+- 🚦 Rate limiting (fixed-window algorithm)
+- 📁 File upload system with validation
+- 🐳 Docker containerization (dev + prod)
+- 📊 Database migrations with Alembic
+- 🧪 Tests using Pytest
+- 📚 Auto-generated API documentation: OpenAPI, Swagger UI
+
+**Tech Stack:**
+`FastAPI` `PostgreSQL` `SQLAlchemy 2.0` `Redis` `Docker` `Pydantic` `Alembic` `JWT` `Pytest`
+
+**Design Patterns:**
+Repository • Dependency Injection • Decorator • Manager • Middleware
+
+---
+
 ### 🎨 BoardStorm - Collaborative Whiteboard
 **[Live Demo](https://boardstorm.vercel.app)** | **[Repository](https://github.com/govindKulk/boardstorm)**
 
